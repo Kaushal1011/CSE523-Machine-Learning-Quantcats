@@ -44,6 +44,34 @@ where,
 
 ## Results
 
+2 Component PCA to visualize data and trend
+![pca_visualization](Results/2_component_PCA_Analysis.png)
+
+Logistic Regression
+![logistic_reg](Results/Logistic_Regression.png)
+
+XGBoost
+![xgboost](Results/XGBoost.png)
+
+Decision Tree Classifier
+![dt_classifer](Results/Decision_Tree_Classifier.png)
+
+Custom Decision Tree with node killing
+![dt_kill_nodes](Results/Killing_nodes_accuracy.png)
+
+Random Forest Classifer
+Finding the best `max_depth`.
+
+![rfc_test_vs_train](Results/RFC_Max_train_vs_test.png)
+
+![rf_classifier](Results/Custom_Random_Forest_Classifier.png)
+
+Model suggestion by AutoML
+
+On running automl sklearn on our dataset the esemble model suggested was a single **Random Forest**. The performance of the same is
+
+![automl](Results/Auto_ML.png)
+
 ## References
 
 1. A. S. G. P. . Kohli P.P.S., Zargar S., “Stock prediction using machinelearning algorithms. in: Malik h., srivastava s., sood y., ahmad a.(eds) applications of artificial intelligence techniques in engineering.”[Online]. Available: https://doi.org/10.1007/978-981-13-1819-138
