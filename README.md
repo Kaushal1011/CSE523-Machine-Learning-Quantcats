@@ -45,18 +45,23 @@ where,
 ## Results
 
 2 Component PCA to visualize data and trend
+
 ![pca_visualization](Results/2_component_PCA_Analysis.png)
 
 Logistic Regression
+
 ![logistic_reg](Results/Logistic_Regression.png)
 
 XGBoost
+
 ![xgboost](Results/XGBoost.png)
 
 Decision Tree Classifier
+
 ![dt_classifer](Results/Decision_Tree_Classifier.png)
 
 Custom Decision Tree with node killing
+
 ![dt_kill_nodes](Results/Killing_nodes_accuracy.png)
 
 Random Forest Classifer
